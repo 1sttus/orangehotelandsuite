@@ -64,7 +64,7 @@ header .menulist li:last-child a:hover{
 
 
 .landing-page{
-    background: linear-gradient(45deg, rgba(255, 0, 1, 0.5), rgb(0, 0, 0, 0.9)), url('/img/back.jpg');
+    background: url('/img/back.jpg');
     background-size: cover;
     background-position: center;
     height: 900px;
