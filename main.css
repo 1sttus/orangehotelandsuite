@@ -64,7 +64,7 @@ header .menulist li:last-child a:hover{
 
 
 .landing-page{
-    background: url('/img/back.jpg');
+    background-image: url('/img/back.jpg');
     background-size: cover;
     background-position: center;
     height: 900px;
